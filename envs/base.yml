@@ -1,0 +1,50 @@
+name: base
+channels:
+  - defaults
+dependencies:
+  - brotlipy=0.7.0=py39h1a28f6b_1002
+  - ca-certificates=2022.2.1=hca03da5_0
+  - certifi=2021.10.8=py39hca03da5_2
+  - cffi=1.15.0=py39h22df2f2_1
+  - charset-normalizer=2.0.4=pyhd3eb1b0_0
+  - conda=4.11.0=py39hca03da5_0
+  - conda-package-handling=1.7.3=py39h1a28f6b_1
+  - cryptography=36.0.0=py39h834c97f_0
+  - expat=2.4.4=hc377ac9_0
+  - idna=3.3=pyhd3eb1b0_0
+  - libcxx=12.0.0=hf6beb65_1
+  - libffi=3.4.2=hc377ac9_2
+  - libiconv=1.16=h1a28f6b_1
+  - ncurses=6.3=h1a28f6b_2
+  - openssl=1.1.1m=h1a28f6b_0
+  - pip=21.2.4=py39hca03da5_0
+  - pycosat=0.6.3=py39h1a28f6b_0
+  - pycparser=2.21=pyhd3eb1b0_0
+  - pyopenssl=22.0.0=pyhd3eb1b0_0
+  - pysocks=1.7.1=py39hca03da5_0
+  - python=3.9.7=hc70090a_1
+  - python.app=3=py39h1a28f6b_0
+  - readline=8.1.2=h1a28f6b_1
+  - requests=2.27.1=pyhd3eb1b0_0
+  - ruamel_yaml=0.15.100=py39h1a28f6b_0
+  - setuptools=58.0.4=py39hca03da5_1
+  - six=1.16.0=pyhd3eb1b0_1
+  - sqlite=3.38.0=h1058600_0
+  - tk=8.6.11=hb8d0fd4_0
+  - tqdm=4.62.3=pyhd3eb1b0_1
+  - tzdata=2021e=hda174b7_0
+  - urllib3=1.26.8=pyhd3eb1b0_0
+  - wheel=0.37.1=pyhd3eb1b0_0
+  - xz=5.2.5=h1a28f6b_0
+  - yaml=0.2.5=h1a28f6b_0
+  - zlib=1.2.11=h5a0b063_4
+  - pip:
+    - black==22.1.0
+    - click==8.0.4
+    - isort==5.10.1
+    - mypy-extensions==0.4.3
+    - pathspec==0.9.0
+    - platformdirs==2.5.1
+    - tomli==2.0.1
+    - typing-extensions==4.1.1
+prefix: /Users/chrisliu298/opt/miniconda3
