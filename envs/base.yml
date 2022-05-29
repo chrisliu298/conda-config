@@ -7,7 +7,7 @@ dependencies:
   - certifi=2022.5.18.1=py38hca03da5_0
   - cffi=1.15.0=py38h22df2f2_1
   - charset-normalizer=2.0.4=pyhd3eb1b0_0
-  - conda=4.12.0=py38hca03da5_0
+  - conda=4.13.0=py38hca03da5_0
   - conda-package-handling=1.8.1=py38h1a28f6b_0
   - cryptography=37.0.1=py38h834c97f_0
   - idna=3.3=pyhd3eb1b0_0

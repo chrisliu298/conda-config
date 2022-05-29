@@ -1,0 +1,30 @@
+name: cse20
+channels:
+  - defaults
+dependencies:
+  - ca-certificates=2022.4.26=hca03da5_0
+  - certifi=2021.10.8=py39hca03da5_2
+  - libcxx=12.0.0=hf6beb65_1
+  - libffi=3.4.2=hc377ac9_2
+  - ncurses=6.3=h1a28f6b_2
+  - openssl=1.1.1n=h1a28f6b_0
+  - pip=21.2.4=py39hca03da5_0
+  - python=3.9.12=hbdb9e5c_0
+  - readline=8.1.2=h1a28f6b_1
+  - setuptools=61.2.0=py39hca03da5_0
+  - sqlite=3.38.3=h1058600_0
+  - tk=8.6.11=hb8d0fd4_0
+  - tzdata=2022a=hda174b7_0
+  - wheel=0.37.1=pyhd3eb1b0_0
+  - xz=5.2.5=h1a28f6b_1
+  - zlib=1.2.12=h5a0b063_2
+  - pip:
+    - black==22.3.0
+    - click==8.1.0
+    - isort==5.10.1
+    - mypy-extensions==0.4.3
+    - pathspec==0.9.0
+    - platformdirs==2.5.1
+    - tomli==2.0.1
+    - typing-extensions==4.1.1
+prefix: /Users/chrisliu298/opt/miniconda3/envs/cse20
