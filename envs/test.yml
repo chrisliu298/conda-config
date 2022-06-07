@@ -19,4 +19,4 @@ dependencies:
   - wheel=0.37.1=pyhd3eb1b0_0
   - xz=5.2.5=h1a28f6b_1
   - zlib=1.2.12=h5a0b063_2
-prefix: /Users/chrisliu298/opt/miniconda3/envs/test
+prefix: /Users/chrisliu298/Developer/miniconda3/envs/test
