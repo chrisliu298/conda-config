@@ -9,7 +9,6 @@ dependencies:
   - libffi=3.4.2=hc377ac9_4
   - ncurses=6.3=h1a28f6b_3
   - openssl=1.1.1q=h1a28f6b_0
-  - pip=22.1.2=py310hca03da5_0
   - python=3.10.4=hbdb9e5c_0
   - readline=8.1.2=h1a28f6b_1
   - sqlite=3.38.5=h1058600_0
@@ -47,6 +46,7 @@ dependencies:
     - defusedxml==0.7.1
     - dill==0.3.5.1
     - docker-pycreds==0.4.0
+    - docopt==0.6.2
     - easydict==1.9
     - entrypoints==0.4
     - et-xmlfile==1.1.0
@@ -114,6 +114,8 @@ dependencies:
     - pexpect==4.8.0
     - pickleshare==0.7.5
     - pillow==9.0.1
+    - pip==22.2.1
+    - pipreqs==0.4.11
     - platformdirs==2.5.1
     - prometheus-client==0.14.1
     - promise==2.3
@@ -167,6 +169,7 @@ dependencies:
     - tikzplotlib==0.10.1
     - tinycss2==1.1.1
     - tokenize-rt==4.2.1
+    - tokenizers==0.12.1
     - tomli==2.0.1
     - torch==1.11.0
     - torchinfo==1.6.3
@@ -176,6 +179,7 @@ dependencies:
     - tornado==6.1
     - tqdm==4.63.0
     - traitlets==5.2.1.post0
+    - transformers==4.20.1
     - typing-extensions==4.1.1
     - urllib3==1.26.8
     - wandb==0.12.11
@@ -187,6 +191,7 @@ dependencies:
     - whoosh==2.7.4
     - widgetsnbextension==3.6.0
     - xxhash==3.0.0
+    - yarg==0.1.9
     - yarl==1.7.2
     - yaspin==2.1.0
 prefix: /Users/chrisliu298/Developer/miniconda3/envs/default
